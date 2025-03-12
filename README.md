@@ -19,7 +19,7 @@ This repository contains a list of **recursion-based** problems in Java along wi
 | 7             | **Reverse an Array**      | Reverse an array using recursion             | <p align="center"><img src="https://img.shields.io/badge/Recursion-%238C92AC.svg?style=flat" /></p> |
 | 8             | **Check Palindrome String** | Determine if a string is a palindrome recursively | <p align="center"><img src="https://img.shields.io/badge/Recursion-%23FFBD69.svg?style=flat" /></p> |
 | 9             | **Fibonacci Number**      | Find the Nth Fibonacci number using recursion | <p align="center"><img src="https://img.shields.io/badge/Recursion-%234285F4.svg?style=flat" /></p> |
-| 10             | **Amstrong Number**   | Print Amstrong Number using recursion          | <p align="center"><img src="https://img.shields.io/badge/Recursion-%23FF5733.svg?style=flat" /></p> |
+| 10             | **Amstrong Number**   | Determine Amstrong Number using recursion          | <p align="center"><img src="https://img.shields.io/badge/Recursion-%23FF5733.svg?style=flat" /></p> |
 <br>
 <hr/>
 
