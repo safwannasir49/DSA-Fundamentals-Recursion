@@ -8,18 +8,17 @@ This repository contains a list of **recursion-based** problems in Java along wi
 
 ## 📖 List of Recursion Problems
 
-| Problem | Question Link | Solution Link |
-|---------|--------------|--------------|
-| Understand recursion by printing something N times | ❓ [Question](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-gfg-n-times) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Understand%20recursion%20by%20print%20something%20N%20times/Understand%20recursion%20by%20print%20something%20N%20times.java) |
-| Print name N times using recursion | ❓ [Question](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-gfg-n-times) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/tree/main/Print%20name%20N%20times%20using%20recursion) |
-| Print numbers from 1 to N using recursion | ❓ [Question](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Print%20numbers%20from%201%20to%20N%20using%20recursion%20Without%20Loops/Print%20numbers%20from%201%20to%20N%20Without%20loops.java) |
-| Print numbers from N to 1 using recursion | ❓ [Question](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-n-to-1-without-loop) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Print%20numbers%20from%20N%20to%201%20using%20recursion/Print%20No's%20from%20N%20to%201%20Without%20Loops.java) |
-| Sum of first N numbers using recursion | ❓ [Question](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Sum%20of%20first%20N%20numbers%20using%20recursion/Sum%20of%20first%20N%20numbers%20using%20recursion.java) |
-| Factorial of a number using recursion | ❓ [Question](https://www.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/0?problemType=functional&difficulty%255B%255D=-1&page=1&query=problemTypefunctionaldifficulty%255B%255D-1page1) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Factorials%20Less%20than%20or%20Equal%20to%20n/Factorials%20Less%20than%20or%20Equal%20to%20n.java) |
-| Reverse an array using recursion | ❓ [Question](https://www.geeksforgeeks.org/problems/reverse-an-array/0) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Reverse%20an%20Array%20Using%20Recursion/Reverse%20an%20Array.java) |
-| Check if a string is a palindrome using recursion | ❓ [Question](https://leetcode.com/problems/valid-palindrome/description/) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Check%20if%20a%20string%20is%20a%20palindrome%20using%20recursion/Check%20if%20a%20string%20is%20a%20palindrome%20using%20recursion.java) |
-| Fibonacci Number| ❓ [Question](https://leetcode.com/problems/fibonacci-number/description/) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Fibonacci%20Number%20/Fibonacci%20Number.java) |
-
+| 🔢 Problem No. | Name                     | 📖 Description                                  | Topic |
+|---------------|--------------------------|----------------------------------------------|---------|
+| 1             | **Print "GFG" N times**   | Print "GFG" N times using recursion          | <p align="center"><img src="https://img.shields.io/badge/Recursion-%23FF5733.svg?style=flat" /></p> |
+| 2             | **Print Name N Times**    | Print a given name N times recursively       | <p align="center"><img src="https://img.shields.io/badge/Recursion-%23FFC300.svg?style=flat" /></p> |
+| 3             | **Print Numbers 1 to N**  | Print numbers from 1 to N without loops      | <p align="center"><img src="https://img.shields.io/badge/Recursion-%23DAF7A6.svg?style=flat" /></p> |
+| 4             | **Print Numbers N to 1**  | Print numbers from N to 1 without loops      | <p align="center"><img src="https://img.shields.io/badge/Recursion-%23900C3F.svg?style=flat" /></p> |
+| 5             | **Sum of First N Numbers**| Find the sum of first N natural numbers      | <p align="center"><img src="https://img.shields.io/badge/Recursion-%236C757D.svg?style=flat" /></p> |
+| 6             | **Factorial Using Recursion** | Compute the factorial of a number recursively | <p align="center"><img src="https://img.shields.io/badge/Recursion-%23C70039.svg?style=flat" /></p> |
+| 7             | **Reverse an Array**      | Reverse an array using recursion             | <p align="center"><img src="https://img.shields.io/badge/Recursion-%238C92AC.svg?style=flat" /></p> |
+| 8             | **Check Palindrome String** | Determine if a string is a palindrome recursively | <p align="center"><img src="https://img.shields.io/badge/Recursion-%23FFBD69.svg?style=flat" /></p> |
+| 9             | **Fibonacci Number**      | Find the Nth Fibonacci number using recursion | <p align="center"><img src="https://img.shields.io/badge/Recursion-%234285F4.svg?style=flat" /></p> |
 <br>
 <hr/>
 
